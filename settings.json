@@ -1,7 +1,7 @@
 {
-  "name": "Wataru's Api",
-  "version": "Wataru UI",
-  "description": "Simple and Easy-to-Use API Documentation",
+  "name": "Dex API List",
+  "version": "1.0",
+  "description": "A clean and easy-to-use API dashboard",
   "header": {
     "status": "Online!",
     "imageSrc": [
@@ -14,26 +14,16 @@
     }
   },
   "apiSettings": {
-    "creator": "AjiroDesu"
+    "creator": "Axolt"
   },
-  "links": [
-    {
-      "name": "Source Code",
-      "url": "https://github.com/ajirodesu/wataru-api"
-    },
-    {
-      "name": "Contact Me",
-      "url": "https://t.me/ajirodesu"
-    }
-  ],
   "notifications": [
     {
-      "title": "Welcome to API Dashboard",
-      "message": "Explore our APIs and integrate them into your projects."
+      "title": "Welcome to Dex API List",
+      "message": "Discover and integrate various APIs with ease."
     },
     {
       "title": "New Feature",
-      "message": "We've added support for WebSocket APIs. Check them out!"
+      "message": "We've enhanced the UI for a smoother experience!"
     }
   ]
 }
